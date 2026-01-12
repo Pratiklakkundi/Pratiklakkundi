@@ -1,92 +1,246 @@
-# Hi, I'm Pratik P Lakkundi 👋  
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    ⚡ PRATIK P LAKKUNDI ⚡                                   ║
+║                  ▓▓▓ CYBER SECURITY ENGINEER ▓▓▓                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-🎓 Computer Science Engineering (Cyber Security)  
-💻 Aspiring Software Development Engineer | Security Engineer  
-🔐 Passionate about building secure, scalable, real-world systems  
+<div align="center">
 
----
+### ⟨⟨⟨ 🔥 WELCOME TO MY DIGITAL FORTRESS 🔥 ⟩⟩⟩
 
-## 🚀 About Me
+```ascii
+    ██████╗ ██████╗  █████╗ ████████╗██╗██╗  ██╗
+    ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝
+    ██████╔╝██████╔╝███████║   ██║   ██║█████╔╝ 
+    ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██╔═██╗ 
+    ██║     ██║  ██║██║  ██║   ██║   ██║██║  ██╗
+    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝
+```
 
-I am a final-year Computer Science (Cyber Security) student with a strong interest in secure software development and backend systems.  
-I enjoy working at the intersection of **security and engineering**, where I can design applications that are both **functional and resilient against attacks**.
-
-- 📄 IEEE published author – *Secure Inter-Hospital Communication using DNA Encryption*
-- 🛡️ Hands-on experience with Web Security, Cryptography, and Application Security
-- 📈 Actively improving DSA, problem-solving, and system design skills
-- 🔍 Interested in backend development, cloud security, and automation
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-- Python, Java, C, JavaScript  
-
-**Backend & APIs**  
-- REST APIs, Node.js, Express, Flask  
-
-**Security**  
-- Web Application Security  
-- Cryptography (Academic & Practical)  
-- Malware Analysis (Basics)  
-- OWASP Top 10  
-
-**Databases**  
-- MySQL, MongoDB  
-
-**Cloud & DevOps**  
-- AWS (EC2, S3, IAM – Basics)  
-
-**Tools**  
-- Git, GitHub, Linux  
-- Burp Suite, Wireshark  
+</div>
 
 ---
 
-## 🔥 Featured Projects
+<div align="center">
 
-### 🔐 AI-Powered Web Application Firewall  
-- Detects and blocks common web attacks using machine learning  
-- Focused on OWASP Top 10 vulnerabilities  
-- **Tech:** Python, Flask, Machine Learning, Security Analytics  
+### ⚡ ▓▓▓ DIGITAL IDENTITY ▓▓▓ ⚡
 
-### 🧬 Secure Inter-Hospital Communication using DNA Encryption  
-- IEEE published research project  
-- Designed to protect sensitive healthcare data during transmission  
-- **Tech:** Cryptography, DNA Encoding, Secure Communication  
+🎓 **Computer Science Engineering** ⟨ *Cyber Security* ⟩  
+💻 **Software Development Engineer** ⟨ *Security Specialist* ⟩  
+🔐 **Secure Systems Architect** ⟨ *Real-world Problem Solver* ⟩  
 
-### 🛡️ Malware Behavior Analysis Toolkit  
-- Beginner-friendly toolkit for static and dynamic malware analysis  
-- Automates basic inspection of suspicious binaries  
-- **Tech:** Python, Linux, Security Tooling  
-
-*(Pinned repositories showcase detailed documentation and implementation)*
+</div>
 
 ---
 
-## 📘 Learning & Practice
+## ⟨⟨⟨ 🚀 ABOUT THE DIGITAL WARRIOR ⟩⟩⟩
 
-- Data Structures & Algorithms (regular practice)
-- Secure Coding & Vulnerability Mitigation
-- Cloud Security fundamentals
-- Backend system design basics
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🛡️  MISSION: Building Bulletproof Digital Solutions           │
+│  ⚔️   VISION: Security-First Engineering Excellence             │
+│  🎯  FOCUS: Where Code Meets Cybersecurity                     │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-I believe in **consistent improvement and clean engineering practices**.
-
----
-
-## 📊 GitHub Stats
-
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide=issues)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 📧 Email: YOUR_EMAIL  
+**⟨ CORE EXPERTISE ⟩**
+- 📄 **IEEE Published Author** ➤ *Secure Inter-Hospital Communication using DNA Encryption*
+- 🛡️ **Security Arsenal** ➤ Web Security • Cryptography • Application Security
+- 📈 **Skill Evolution** ➤ DSA • Problem Solving • System Design
+- 🔍 **Domain Focus** ➤ Backend Development • Cloud Security • Automation
 
 ---
 
-⭐ *I value clarity, security, and real-world problem solving over hype.*
+## ⟨⟨⟨ 🛠️ TECH ARSENAL ⟩⟩⟩
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                           ⚡ WEAPON SELECTION ⚡                             ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### 🔥 **PROGRAMMING LANGUAGES**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🐍 Python    │  ☕ Java      │  ⚡ C         │  🌐 JavaScript  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🚀 **BACKEND & API MASTERY**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🔗 REST APIs │  🟢 Node.js   │  ⚡ Express   │  🐍 Flask       │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🛡️ **SECURITY FORTRESS**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🔐 Web App Security    │  🧬 Cryptography                       │
+│  🦠 Malware Analysis    │  ⚠️  OWASP Top 10                      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🗄️ **DATABASE SYSTEMS**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🐬 MySQL     │  🍃 MongoDB   │  📊 Data Modeling               │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### ☁️ **CLOUD & DEVOPS**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ☁️  AWS (EC2, S3, IAM) │  🔧 DevOps Fundamentals              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🔧 **TOOLS & UTILITIES**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🔀 Git/GitHub │  🐧 Linux     │  🔍 Burp Suite │  📡 Wireshark  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ⟨⟨⟨ 🔥 LEGENDARY PROJECTS ⟩⟩⟩
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                        ⚡ DIGITAL MASTERPIECES ⚡                            ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### 🤖 **AI-Powered Web Application Firewall**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🎯 MISSION: Intelligent Threat Detection & Mitigation         │
+│  🧠 TECH: Python • Flask • Machine Learning • Security        │
+│  🛡️ FOCUS: OWASP Top 10 Vulnerability Protection              │
+└─────────────────────────────────────────────────────────────────┘
+```
+**⚡ Features:** Real-time attack detection • ML-powered analysis • Automated blocking
+
+### 🧬 **Secure Inter-Hospital Communication using DNA Encryption**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  📜 STATUS: IEEE Published Research                            │
+│  🏥 MISSION: Healthcare Data Protection                        │
+│  🔬 TECH: Cryptography • DNA Encoding • Secure Protocols      │
+└─────────────────────────────────────────────────────────────────┘
+```
+**⚡ Innovation:** Bio-inspired encryption • Healthcare security • Research excellence
+
+### 🦠 **Malware Behavior Analysis Toolkit**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🔍 MISSION: Automated Malware Investigation                   │
+│  🛠️ TECH: Python • Linux • Security Tooling                   │
+│  📊 FOCUS: Static & Dynamic Analysis Automation               │
+└─────────────────────────────────────────────────────────────────┘
+```
+**⚡ Capabilities:** Binary inspection • Behavior analysis • Threat intelligence
+
+---
+
+## ⟨⟨⟨ 📘 CONTINUOUS EVOLUTION ⟩⟩⟩
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                      ⚡ SKILL ENHANCEMENT MATRIX ⚡                          ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🧠 Data Structures & Algorithms    │  ████████░░ 80%           │
+│  🔐 Secure Coding Practices         │  ███████░░░ 70%           │
+│  ☁️  Cloud Security Fundamentals     │  ██████░░░░ 60%           │
+│  🏗️ Backend System Design           │  █████░░░░░ 50%           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**⟨ PHILOSOPHY ⟩**
+> *"Consistent improvement and clean engineering practices drive innovation"*
+
+---
+
+## ⟨⟨⟨ 📊 BATTLE STATISTICS ⟩⟩⟩
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         ⚡ GITHUB ANALYTICS ⚡                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF)
+
+</div>
+
+---
+
+## ⟨⟨⟨ 📫 DIGITAL CONNECTIONS ⟩⟩⟩
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                        ⚡ COMMUNICATION CHANNELS ⚡                          ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### ⚡ **CONNECT WITH THE CYBER WARRIOR** ⚡
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  💼 LinkedIn  │  https://linkedin.com/in/YOUR_LINKEDIN          │
+│  📧 Email     │  YOUR_EMAIL                                     │
+│  🌐 Portfolio │  Coming Soon...                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                            ⚡ CORE VALUES ⚡                                 ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### ⟨⟨⟨ 🎯 **CLARITY • SECURITY • REAL-WORLD IMPACT** 🎯 ⟩⟩⟩
+
+**⚡ "Building tomorrow's secure digital infrastructure, one line of code at a time" ⚡**
+
+```
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ▓                                                                          ▓
+    ▓    🔥 THANK YOU FOR VISITING MY DIGITAL FORTRESS 🔥                     ▓
+    ▓                                                                          ▓
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
