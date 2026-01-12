@@ -15,27 +15,34 @@ I'm a final-year Computer Science (Cyber Security) student with a strong passion
 - 📈 **Continuous Learner** – DSA, Problem Solving, System Design
 - 🔍 **Focus Areas** – Backend Development, Cloud Security, Automation
 
+
+
 ---
 
-## 🔥 My Top Open Source Projects
+## 🏆 Badges & Achievements
 
-<a href="https://github.com/Pratiklakkundi/ai-powered-waf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratiklakkundi&repo=ai-powered-waf&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Pratiklakkundi/dna-encryption-healthcare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratiklakkundi&repo=dna-encryption-healthcare&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Pratiklakkundi/malware-analysis-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratiklakkundi&repo=malware-analysis-toolkit&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Pratiklakkundi/secure-coding-practices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratiklakkundi&repo=secure-coding-practices&theme=radical&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/IEEE-Published%20Author-blue?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Published"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity Expert"/>
+  <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-orange?style=for-the-badge&logo=hackerone&logoColor=white" alt="Bug Bounty Hunter"/>
+</p>
 
-<p align="left">
-  <a href="https://github.com/Pratiklakkundi?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced-green?style=for-the-badge&logo=python&logoColor=white" alt="Python Advanced"/>
+  <img src="https://img.shields.io/badge/Java-Proficient-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Proficient"/>
+  <img src="https://img.shields.io/badge/Web%20Security-Specialist-purple?style=for-the-badge&logo=security&logoColor=white" alt="Web Security"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-yellow?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS"/>
+  <img src="https://img.shields.io/badge/OWASP-Top%2010%20Expert-darkred?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/Cryptography-Researcher-blue?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Malware-Analysis-black?style=for-the-badge&logo=virus&logoColor=white" alt="Malware Analysis"/>
+  <img src="https://img.shields.io/badge/Penetration-Testing-red?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Penetration Testing"/>
+  <img src="https://img.shields.io/badge/Secure%20Coding-Champion-green?style=for-the-badge&logo=code&logoColor=white" alt="Secure Coding"/>
 </p>
 
 ---
@@ -92,31 +99,7 @@ I'm a final-year Computer Science (Cyber Security) student with a strong passion
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 
----
 
-## 📊 Stats and Activity
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pratik's streak" src="https://streak-stats.demolab.com/?user=Pratiklakkundi&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
-### 💻 GitHub Profile Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pratik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Pratiklakkundi&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pratik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Pratiklakkundi&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
-
-![Pratik's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratiklakkundi&custom_title=Pratik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-### ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
